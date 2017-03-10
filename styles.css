@@ -1,0 +1,42 @@
+html,body {
+	background-color: black;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 300;
+	margin: 0 auto;
+}
+#container {
+	background-color: black;
+	background-image: bg.gif
+
+}
+#main {
+	color: white;
+	background-color: black;
+
+}
+#navbar {
+}
+#subnavbar {
+}
+#leftmain {
+	text-align: center
+	background-color: black;
+}
+#rightmain {
+	background-color: black;
+	float: left;
+	border: 1px solid;
+	
+}
+a:link {
+	gray
+}
+
+a:visited {
+	gray
+}
+a:hover {
+	white
+	text-decoration: none
+}
